@@ -1,11 +1,12 @@
 # Apex Legends Map Rotation 📋
 
-Display the current and next map rotation in Apex Legends.
+Display the current and next map rotation in Apex Legends on your Stream Deck.
 
 # Requirements 🔎
 
-API Key from `https://apexlegendsapi.com/#introduction`
-Remember to link your Discord account in order to use the API
+- API Key from `https://apexlegendsapi.com/#introduction`
+Remember to link your Discord account in order to use the API.
+- Plugin API Ninja from BarRaider
 
 # Additional Comments 🗨
 - API URL `https://api.mozambiquehe.re/maprotation?auth=[YOURAPIKEY]&version=2`
