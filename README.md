@@ -1,6 +1,7 @@
 # Apex Legends Map Rotation 📋
 
-Display the current and next map rotation in Apex Legends on your Stream Deck.
+- Display the current map rotation and time remaining in Apex Legends on your Stream Deck. `1`
+- Display the next map rotation in Apex Legends on your Stream Deck. `2`
 
 # Requirements 🔎
 
@@ -15,8 +16,7 @@ Remember to link your Discord account in order to use the API.
 More info about API endpoint: `https://apexlegendsapi.com/#map-rotation`
 
 # Stream Deck View 📟
-![image](https://github.com/josrojas/apexMapsSD/assets/73319827/13751823-530f-4601-b38d-e40875c350f9)
 
-![image](https://github.com/josrojas/apexMapsSD/assets/73319827/ee2fc42d-c1c5-490b-820a-8a899aa86a20)
+`1` ![image](https://github.com/josrojas/apexMapsSD/assets/73319827/13751823-530f-4601-b38d-e40875c350f9) &nbsp; &nbsp; `2` ![image](https://github.com/josrojas/apexMapsSD/assets/73319827/ee2fc42d-c1c5-490b-820a-8a899aa86a20)
 
 Data from `apexlegendsstatus.com`
