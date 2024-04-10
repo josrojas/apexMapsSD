@@ -12,11 +12,15 @@ Remember to link your Discord account in order to use the API.
 # Additional Comments 🗨
 - API URL `https://api.mozambiquehe.re/maprotation?auth=[YOURAPIKEY]&version=2`
 - Replace [YOURAPIKEY] with API key from https://portal.apexlegendsapi.com/
+- If you want to align text like image below `3` go to the settings in <b> Title Prefix </b> and put \n with 3 spaces.
 
 More info about API endpoint: `https://apexlegendsapi.com/#map-rotation`
 
 # Stream Deck View 📟
 
 `1` ![image](https://github.com/josrojas/apexMapsSD/assets/73319827/13751823-530f-4601-b38d-e40875c350f9) &nbsp; &nbsp; `2` ![image](https://github.com/josrojas/apexMapsSD/assets/73319827/ee2fc42d-c1c5-490b-820a-8a899aa86a20)
+
+`3` ![image](https://github.com/josrojas/apexMapsSD/assets/73319827/938bed99-8f0c-4565-b4e1-06e53be67642)
+
 
 Data from `apexlegendsstatus.com`
