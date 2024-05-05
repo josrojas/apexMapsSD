@@ -7,7 +7,7 @@
 
 - API Key from `https://apexlegendsapi.com/#introduction`
 Remember to link your Discord account in order to use the API.
-- Plugin API Ninja from BarRaider
+- Plugin API Ninja from BarRaider in ElGato Marketplace
 
 # Additional Comments 🗨
 - API URL `https://api.mozambiquehe.re/maprotation?auth=[YOURAPIKEY]&version=2`
