@@ -23,4 +23,7 @@ More info about API endpoint: `https://apexlegendsapi.com/#map-rotation`
 `3` ![image](https://github.com/josrojas/apexMapsSD/assets/73319827/938bed99-8f0c-4565-b4e1-06e53be67642)
 
 
+# Full Stream Deck view
+![image](https://github.com/user-attachments/assets/bac253ee-1135-44c6-b432-913b47692995)
+
 Data from `apexlegendsstatus.com`
